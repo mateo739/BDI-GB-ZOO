@@ -4,7 +4,7 @@
 **Autor**: [Mateo orduz ](https://github.com/mateo739/BDI-GB-ZOO.git)  
 **Directorio Fuente**: `/src/Git/BDI-GB-ZOO` 📂  
 **Creado**: 23-Octubre-2024 🗓️  
-**Última Actualización**: 14-Noviembre-2024  
+**Última Actualización**: 19-Noviembre-2024  
 
 ## Descripción
 Este proyecto implementa un sistema de base de datos diseñado para gestionar las operaciones de un zoológico, desde la administración de hábitats y cuidadores hasta el seguimiento de visitantes y animales. Incluye scripts SQL, modelos de datos, y herramientas para automatización y pruebas. Ideal para aprender y aplicar conceptos de bases de datos relacionales.
